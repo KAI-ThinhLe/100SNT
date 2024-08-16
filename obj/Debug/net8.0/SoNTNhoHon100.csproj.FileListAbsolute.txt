@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\bin\Debug\net8.0\SoNTNhoHon100.exe
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\bin\Debug\net8.0\SoNTNhoHon100.deps.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\bin\Debug\net8.0\SoNTNhoHon100.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\bin\Debug\net8.0\SoNTNhoHon100.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\bin\Debug\net8.0\SoNTNhoHon100.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\refint\SoNTNhoHon100.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\SoNTNhoHon100.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\SoNTNhoHon100\obj\Debug\net8.0\ref\SoNTNhoHon100.dll
